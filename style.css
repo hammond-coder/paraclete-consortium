@@ -262,12 +262,16 @@ footer p{
     padding:0 0 0 2rem;
 }
 @media screen and (max-width:800px){    /*  MOBILE AND TABLET*/
-    header, .hero-section{
-    margin-right:-1.5rem;
+    header{
+      padding-top:1rem;
+      margin-right:-1rem;
+    }
+    .hero-section{
+      margin-right:-1.5rem;
     }
     .logo{
-        width:14rem;
-        height:11rem; 
+      width:14rem;
+      height:11rem; 
     }
     .hamburger-menu{
         display:block;
