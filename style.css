@@ -18,6 +18,9 @@ body{
 h1{
     color:#224e8d;
 }
+p {
+font-weight:700;
+}
 header{
     display:flex;
     background-image:url(images/background.jpg);
