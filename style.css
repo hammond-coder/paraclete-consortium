@@ -353,6 +353,7 @@ footer p{
     }
     footer{
     height:500px;
+    margin-right:-1rem;
     }
     .social-icons{
     margin-bottom:4rem;
