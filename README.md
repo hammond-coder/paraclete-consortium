@@ -1,1 +1,1 @@
-# paraclete-consortium
+Paraclete Consortium. A business website.
