@@ -264,7 +264,7 @@ footer p{
 @media screen and (max-width:800px){    /*  MOBILE AND TABLET*/
     header{
       padding-top:1rem;
-      margin-right:-1rem;
+      margin-right:-2rem;
     }
     .hero-section{
       margin-right:-1.5rem;
