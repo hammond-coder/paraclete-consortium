@@ -262,12 +262,10 @@ footer p{
     padding:0 0 0 2rem;
 }
 @media screen and (max-width:800px){    /*  MOBILE AND TABLET*/
-    header{
-    padding-top:1rem;
+    body{
     margin-right:-2rem;
     }
     .logo{
-        
         width:14rem;
         height:11rem; 
     }
