@@ -10,6 +10,7 @@
 body{
     font-family: 'Gotham Bold', sans-serif; 
     font-size:1.8rem;
+    font-weight:700;
     position:absolute;
     margin-right:-2rem;
     overflow-x: hidden;
