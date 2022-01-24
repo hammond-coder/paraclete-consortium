@@ -262,8 +262,8 @@ footer p{
     padding:0 0 0 2rem;
 }
 @media screen and (max-width:800px){    /*  MOBILE AND TABLET*/
-    body{
-    margin-right:-2rem;
+    header, .hero-section{
+    margin-right:-1.5rem;
     }
     .logo{
         width:14rem;
