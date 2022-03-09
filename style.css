@@ -321,7 +321,6 @@ footer p{
         .about-contents{
             flex-wrap: wrap;
             margin-left:1rem;
-            margin-right:-1rem;
         }
         .about-us{
             margin:1rem 0 0 1rem;
