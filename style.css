@@ -270,7 +270,7 @@ footer p{
 
 @media screen and (max-width:600px){                    /*      MOBILE      */
 	body{
-		margin-right:-2rem;
+		margin-right:-2.5rem;
 	}
 	header{
         padding-top:1rem;
